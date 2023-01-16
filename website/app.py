@@ -70,9 +70,8 @@ with st.container():
             """
         )
         st.write("[Mkulima Farms >]()")
-    with right_column:
-        st.image('images\henry mugai.JPG')
-
+   
+        
 # ---- PROJECTS ----
 
 with st.container():
